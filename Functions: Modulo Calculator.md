@@ -15,7 +15,8 @@ To write a Python program that defines a function which accepts two values and r
     print("The modulo of", a, "and", b, "is:", a % b)
 x = int(input("Enter the first number: "))
 y = int(input("Enter the second number: "))
-result(x, y)```
+result(x, y)
+```
 ## Output
 <img width="1554" height="993" alt="image" src="https://github.com/user-attachments/assets/103c60dd-253f-499e-9d2c-bb8cfc0c291a" />
 
